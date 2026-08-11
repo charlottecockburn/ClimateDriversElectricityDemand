@@ -14,8 +14,8 @@ worldbank_gdp.csv: Annual GDP from the World Bank
 
 worldbank_population.csv: Annual population from the World Bank
 
-UK_data_daily.csv: daily temperature, CDD, ELD, electricity demand, etc. for the United Kingdom. Generated using scripts found in the US_UK_daily folder
+UK_data_daily.csv: daily temperature, ELD, electricity demand, etc. for the United Kingdom. Generated using scripts found in the US_UK_daily folder
 
-US_daily.csv: daily temperature, CDD, ELD, electricity demand, etc. for balancing authorities across the United States. Generated using scripts found in the US_UK_daily folder
+US_daily.csv: daily temperature, ELD, electricity demand, etc. for balancing authorities across the United States. Generated using scripts found in the US_UK_daily folder
 
 
