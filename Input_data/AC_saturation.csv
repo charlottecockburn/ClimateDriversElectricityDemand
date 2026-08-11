@@ -1,0 +1,90 @@
+﻿Country,AC,Source,Year,Notes,Hemisphere,Population
+Argentina,47,Argentine gov,2918,,South,45700000
+Armenia,20,,,Dubious,North,3000000
+Australia,80,,,Dubious,South,27000000
+Austria,20,,,Dubious,North,9000000
+Azerbaijan,20,,,Dubious,North,10000000
+Bangladesh,2,TBS,2023,,North,173600000
+Belarus,20,,,Dubious,North,9100000
+Belgium,20,,,Dubious,North,11700000
+Bolivia,22,IEA (2020),2020,Average for C + S America,South,12400000
+Bosnia and Herzegovina,20,,,Dubious,North,3100000
+Brazil,16,IEA (2018),2018,,South,212000000
+Bulgaria,20,,,Dubious,North,6400000
+Canada,61,NIH,2017,,North,41000000
+Chile,15,,2023,all of latin america,South,19500000
+China,60,IEA (2018),,,North,1400000000
+Colombia,5,IDB,2016,,North,52900000
+Costa Rica,22,IEA (2020),2020,Average for C + S America,North,5100000
+Croatia,20,,,Dubious,North,3900000
+Cyprus,82,Episcope,2013,,North,1400000
+Czechia,16,Nielson,2023,,North,10700000
+Denmark,20,,,Dubious,North,5900000
+Dominican Republic,16,Montane et al,2021,"Energy used for space cooling, not saturation",North,11400000
+Ecuador,22,IEA (2020),2020,Average for C + S America,South,18100000
+Egypt,12,Tiedeman,2000,OLD,North,116500000
+El Salvador,22,IEA (2020),2020,Average for C + S America,North,6300000
+Estonia,20,,,Dubious,North,1300000
+Finland,20,,,Dubious,North,5500000
+France,25,Agence de Transition Ecologique ,2020,,North,65000000
+Georgia,6,IEA (2020),2020,Average for Africa,North,3700000
+Germany,19,Verivox ,,,North,83000000
+Greece,99,Inaba,2024,,North,10000000
+Hungary,10,Hungary Central Statistics Office,2020,Grew a lot in 2022?,North,9600000
+Iceland,20,,,Dubious,North,370000
+India,5,IEA (2018),,,North,1451000000
+Iran,19,Tribune,2016,40%of ec used for AC,North,91570000
+Ireland,20,,,Dubious,North,5300000
+Italy,48.8,ISTAT,2021,,North,59000000
+Japan,91,IEA,2018,,North,122000000
+Kazakhstan,12,KOICA,2015,,North,20590000
+Kenya,6,IEA (2020),2020,Average for Africa,South,56430000
+Kosovo,20,,,Dubious,North,1600000
+Kuwait,95,,,67% of electricity for cooling according to MDPI,North,4974000
+Kyrgyzstan,20,,,Dubious,North,7225000
+Latvia,20,,,Dubious,North,1800000
+Lithuania,20,,,Dubious,North,2700000
+Luxembourg,20,,,Dubious,North,660000
+Malaysia,80,IHEC,2024,,North,35560000
+Malta,84,Malta Times,2023,,North,574300
+Mexico,16,IEA,2018,,North,127000000
+Moldova,20,,,Dubious,North,2389000
+Mongolia,34,IEA (2020),2020,Average for Asia Pacific,North,3525000
+Montenegro,20,,,Dubious,North,623831
+Morocco,6,IEA (2020),2020,Average for Africa,North,38000000
+Myanmar,2,Statista 2,2025,0.2 units per household,North,54500000
+Netherlands,20,,,Dubious,North,17600000
+New Zealand,5,,,Dubious,South,5100000
+Nigeria,6,IEA (2020),2020,Average for Africa,North,232700000
+North Macedonia,20,2011,Balkan insight,,North,1792000
+Norway,20,,,Dubious,North,5500000
+Oman,80,,,70% of load per ECOmena,North ,5282000
+Pakistan,8,Gallup,,,North,251300000
+Peru,22,IEA (2020),2020,Average for C + S America,South,34220000
+Philippines,10,,IEA  (2019),,North,115800000
+Poland,20,,,Dubious,North,37700000
+Portugal,17,Pordata,2023,,North,10200000
+Puerto Rico,54,NREL,,Percent of residential energy usage,North,3202000
+Qatar,100,MDPI,,"said 'nearly ubiquitous', 70-80% of all energy per MDPI",North,2858000
+Republic of Serbia,30,IQC,2013,,North,6587000
+Romania,48,EVOmag,2022,,North ,19000000
+Russia,11,Clasp,2011,,North,143500000
+Singapore,80,IHEC,2024,,North,6000000
+Slovakia,20,,,Dubious,North,5400000
+Slovenia,36,Republic of Slovenia Statistical Office,2021,,North,2100000
+South Africa,6,IEA (2018),,,South,64000000
+South Korea,86,IEA,2018,,North,51700000
+Spain,30,Inaba ,2024,,North,47400000
+Sri Lanka,5,,,Assume same as india,North,21920000
+Sweden,20,,,Dubious,North,10500000
+Switzerland,20,,,Dubious,North,8700000
+Taiwan,95,Statista,2022,,North,23400000
+Tajikistan,20,,,Dubious,North,10590000
+Thailand,15,Reddit,,,North,71670000
+Tunisia,6,IEA (2020),2020,Average for Africa,North,12380000
+Turkey,2,Southeast European Industreal Market,2009,,North,85000000
+Ukraine,50,enefcities,2023,Based on estimate from one study,North,37860000
+United Kingdom,5,"Department for Business, Energy, and Industrial Strategy",2021,,North,67000000
+United States of America,90,IEA,2018,,North,341000000
+Uruguay,22,IEA (2020),2020,Average for C + S America,South,3387000
+Vietnam,10,,IEA (2019),,North,101000000
