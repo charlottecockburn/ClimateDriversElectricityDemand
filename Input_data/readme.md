@@ -8,6 +8,8 @@ emberdata: Monthly electricity data courtesy of Ember
 
 monthly_cdd.csv : Monthly sum and average of CDDs in each country, along with monthly average, minimum, and maximum temperatures
 
+monthly_cdd_base22.csv : Monthly sum and average of CDDs in each country,calculate using a base temperature of 22 oC (compared to 19 oC for the file above)
+
 monthly_eld.csv: Monthly sum of ELDs in each country, along with monthly average moist enthalpy (Q) and base 'comfort' enthalpy (Qb)
 
 worldbank_gdp.csv: Annual GDP from the World Bank
