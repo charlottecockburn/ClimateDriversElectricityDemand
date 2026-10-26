@@ -32,7 +32,7 @@ YEAR_END   = 2024
 
 W_REF = 0.008   # reference specific humidity ratio for enthalpy baseline
 # US CDD base temperatures (°C)
-TB = dict(cdd=15.0, hi=14.5, hu=14.5, tw=10.0, q=27.5)
+TB = dict(cdd=18.5, hi=18, hu=16, tw=10.0, q=26)
 
 os.makedirs(OUTPUT_FOLDER, exist_ok=True)
 
