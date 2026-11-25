@@ -1,6 +1,6 @@
-# Temporary storage of final datasets used in analyses
+# Storage of final datasets used in analyses
 
-These files contain all data necessary to replicate all tables and figures. These files, along with intermediate ERA5 products, will be moved to a final storage repository on Zenodo upon acceptance of the paper. 
+These files contain all data necessary to replicate all tables and figures. These files, along with intermediate ERA5 products, are also available on Zenodo.
 
 AC_saturation.csv : Percent of households that use air conditioning in each country. Data sources can be found in the paper supplement.
 
